@@ -1,4 +1,2 @@
-Hello, I’m Júlia :)
-I’m a pixel art artist, which is learning programming, design and animation
-Currently learning mostly GDScript, but also Python, Java and HTML
-
+Julia here! 
+Feel free to go through all my projects and repositories, any feedback means the world to me :)

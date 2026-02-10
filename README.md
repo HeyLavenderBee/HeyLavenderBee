@@ -1,2 +1,3 @@
-Julia here! 
-Feel free to go through all my projects and repositories, any feedback means the world to me :)
+Seja bem-vindo ao meu Github!
+Desenvolvo projetos para aprendizagem principalmente em Python, Web (HTML, CSS e PHP) e alguns jogos em GDScript.
+Aproveite para olhar meus repositórios e pequenos projetos que eu desenvolvi ao longo do tempo!
